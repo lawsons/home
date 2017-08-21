@@ -3,15 +3,15 @@ analytics:
     id: UA-104944894-1
 
 repository: swufer-home/swufer-home
-repository_url: https://github.com/swufer-home/swufer-home
+repository_url: https://github.com/lawsons/home
 
 timezone: Asia/Shanghai
 
-name: 苏菲导航 · Swufer-Home
-author: Swufer-home
-description: A Navigation Website for Swufer
-keywords: 苏菲导航, Swufer-home, Swufer, Navi, Navigation, 西财, 西南财经大学
-url: https://swufer-home.github.io/swufer-home
+name: 罗申导航 · Lawson-Home
+author: Lawson-home
+description: A Navigation Website for Lawson
+keywords: 罗申导航, Lawson-home, Lawson, Navi, Navigation
+url: https://lawsons.github.io/home
 
 logo: /images/logo.png
 logo_dark: /images/logo-dark.png
