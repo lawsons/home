@@ -2,7 +2,7 @@ analytics:
   google:
     id: UA-104944894-1
 
-repository: swufer-home/swufer-home
+repository: lawsons/home
 repository_url: https://github.com/lawsons/home
 
 timezone: Asia/Shanghai
